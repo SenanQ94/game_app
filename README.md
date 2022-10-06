@@ -1,16 +1,7 @@
 # game_app
 
-A new Flutter project.
+Simple game for kids :) 
 
-## Getting Started
+![Screenshot_1665095397](https://user-images.githubusercontent.com/115164036/194432181-458bf60c-0a57-453e-9e1e-0d4cd7798155.png)
+![Screenshot_1665095489](https://user-images.githubusercontent.com/115164036/194432184-9fa4e9e8-9826-459d-a5c0-907350111afb.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
